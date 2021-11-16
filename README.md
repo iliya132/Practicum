@@ -6,6 +6,8 @@
 
 `npm install`
 
+`npm run construct`
+
 `npm run start`
 
 
